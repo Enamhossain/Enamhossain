@@ -4,7 +4,7 @@
 
 💻 My technical skillset includes:
 - HTML5, CSS3, JavaScript
-- React, Vue.js, Angular
+- React, node, firebase,Mongodb
 - Material UI, Bootstrap, Tailwind CSS, SASS
 - Git, GitHub, Agile methodologies
 
