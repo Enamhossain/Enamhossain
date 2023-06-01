@@ -8,8 +8,8 @@
 - Material UI, Bootstrap, Tailwind CSS, SASS
 - Git, GitHub, Agile methodologies
 
-🚀 I'm currently working on [Airbnb], where I'm utilizing [Technology Stack] to build a dynamic and responsive user interface.
+🚀 I'm currently working on [petCat], where I'm utilizing [] to build a dynamic and responsive user interface.
 
 🎨 In my free time, you can find me designing and tinkering with graphic tools to enhance my creativity and inspire new ideas.
 
-📫 Let's connect! Feel free to reach out to me via [Email Address] or check out my portfolio at [Portfolio URL]. Let's build something amazing together! 😎
+📫 Let's connect! Feel free to reach out to me via [anamhossain102@gmail.com] or check out my portfolio at [loading]. Let's build something amazing together! 😎
