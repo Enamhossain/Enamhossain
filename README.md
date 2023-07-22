@@ -1,4 +1,4 @@
-Hello, my name is Mohammad Enam , and I'm a web developer with 1yr of experience. 
+Hello, I'm Mohammad Enam, a web developer with 1 year of experience. From crafting elegant websites to breathing life into interactive web applications, I immerse myself in the art of coding, constantly seeking innovative ways to bridge creativity and functionality.
 <br/>
 👨‍💻 A web developer on a mission to create beautiful and intuitive user interfaces.
 
@@ -33,7 +33,6 @@ Hello, my name is Mohammad Enam , and I'm a web developer with 1yr of experience
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="40" width="52" alt="safari logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" width="52" alt="yarn logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
