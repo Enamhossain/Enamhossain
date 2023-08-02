@@ -7,7 +7,7 @@ Hello, I'm Mohammad Enam, a web developer with 1 year of experience. From crafti
 ## Skills
 ```
 🔧 **Programming languages**:  JavaScript, HTML, CSS, typeScript
-🛠️ **Frameworks and libraries**:  React.js, Node.js, Express.js , tailwind, mangoes
+🛠️ **Frameworks and libraries**:  React.js, Node.js, Express.js, tailwind, mangoes
 📚 **Databases**:  MongoDB 
 🗃️ **Version control**: Git, GitHub,
 ```
@@ -45,7 +45,7 @@ Hello, I'm Mohammad Enam, a web developer with 1 year of experience. From crafti
 <br clear="both">
 
 
-- 🌱 I’m currently learning NextJs,typescript,  JavaScript , 
+- 🌱 I’m currently learning NextJs, typescript,  JavaScript, 
 
 - 💬 Talk to me about React, JavaScript.
  - 📫 Reach me at **anamhossain102@gmail.com**  
@@ -58,10 +58,10 @@ Hello, I'm Mohammad Enam, a web developer with 1 year of experience. From crafti
  <p align="left">📊 last week I worked on :</p> <br/>
  
 ```js
-JavaScript     15 hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  60 % 
-react JS      20 hrs 31 mins(apx)  ██████████████████████████░░░░░░░░  85 % 
-Node express   10 hrs 0 mins(apx)  ████████████████████████░░░░░░░░░░  70 % 
-Mongoose       5  hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  60 % 
+JavaScript     15 hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  75 % 
+react JS      20 hrs 31 mins(apx)  ████████████████████████░░░░░░░░    70 % 
+Node express   10 hrs 0 mins(apx)  ████████████████████████░░░░░░░░░░  60 % 
+Mongoose       5  hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  50 % 
 ```
 
 </div>
@@ -85,9 +85,5 @@ Mongoose       5  hrs 0 mins(apx)  ███████████████
 
 
 
-💻 My technical skillset includes:
-- HTML5, CSS3, JavaScript
-- React, node, firebase,Mongodb
-- Material UI, Bootstrap, Tailwind CSS, SASS
-- Git, GitHub, Agile methodologies
+
 
