@@ -55,8 +55,8 @@ Hello, I'm Mohammad Enam, a web developer with 1 year of experience. From crafti
 ```js
 JavaScript     15 hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  75 % 
 react JS      20 hrs 31 mins(apx)  ████████████████████████░░░░░░░░    70 % 
-Node express   10 hrs 0 mins(apx)  ████████████████████████░░░░░░░░░░  60 % 
-Mongoose       5  hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  50 % 
+Node express   10 hrs 0 mins(apx)  ███████████░░░░░░░░  30 % 
+Mongoose       5  hrs 0 mins(apx)  ███████████░░░░░░░░░░░░  30 % 
 ```
 
 </div>
