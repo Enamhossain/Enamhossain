@@ -1,4 +1,4 @@
-Hello, I'm Mohammad Enam, a web developer with 1 year of experience. From crafting elegant websites to breathing life into interactive web applications, I immerse myself in the art of coding, constantly seeking innovative ways to bridge creativity and functionality.
+Hello, I'm Mohammad Enam, an aspiring web developer. I love creating beautiful websites and making interactive web applications. I enjoy coding and always look for new ways to combine creativity and functionality.
 <br/>
 👨‍💻 A web developer on a mission to create beautiful and intuitive user interfaces.
 
@@ -40,7 +40,7 @@ Hello, I'm Mohammad Enam, a web developer with 1 year of experience. From crafti
 <br clear="both">
 
 
-- 🌱 I’m currently learning NextJs, typescript,  JavaScript, 
+- 🌱 I’m currently learning NextJs, typescript,  JavaScript OPP, 
 
 - 💬 Talk to me about React, JavaScript.
  - 📫 Reach me at **anamhossain102@gmail.com**  
@@ -53,10 +53,10 @@ Hello, I'm Mohammad Enam, a web developer with 1 year of experience. From crafti
  <p align="left">📊 last week I worked on :</p> <br/>
  
 ```js
-JavaScript     15 hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  75 % 
-react JS      20 hrs 31 mins(apx)  ████████████████████████░░░░░░░░    70 % 
-Node express   10 hrs 0 mins(apx)  ███████████░░░░░░░░  30 % 
-Mongoose       5  hrs 0 mins(apx)  ███████████░░░░░░░░░░░░  30 % 
+JavaScript     15 hrs 0 mins(apx)  ████████████████████░░░░░░░░░░░░  70 % 
+react JS      20 hrs 31 mins(apx)  ████████████████████████░░░░░░░░    75 % 
+Node express   10 hrs 0 mins(apx)  █████████████░░░░░░░░░  50 % 
+Mongoose       5  hrs 0 mins(apx)  █████████████░░░░░░░░░░░░░  50 % 
 ```
 
 </div>
