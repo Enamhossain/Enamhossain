@@ -11,7 +11,7 @@ Hello, I'm Mohammad Enam, an aspiring web developer. I love creating beautiful w
 📚 **Databases**:  MongoDB 
 🗃️ **Version control**: Git, GitHub,
 ```
-<h3 align="left">Languages and Tools:</h3> 
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
@@ -34,15 +34,14 @@ Hello, I'm Mohammad Enam, an aspiring web developer. I love creating beautiful w
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" width="52" alt="yarn logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-
 </div>
 <br clear="both">
 <br clear="both">
 
 
-- 🌱 I’m currently learning NextJs, typescript,  JavaScript OPP, 
+- 🌱 I’m currently learning postgresql, data structures and algorithms 
 
-- 💬 Talk to me about React, JavaScript.
+- 💬 Talk to me about React and JavaScript & Next JS
  - 📫 Reach me at **anamhossain102@gmail.com**  
 
  <br> 
