@@ -6,8 +6,8 @@ Hello, I'm Mohammad Enam, an aspiring web developer. I love creating beautiful w
 
 ## Skills
 ```
-🔧 **Programming languages**:  JavaScript, HTML, CSS, typeScript
-🛠️ **Frameworks and libraries**:  React.js, Node.js, Express.js, tailwind, mangoes
+🔧 **Programming languages**:  TypeScript, JavaScript, HTML, CSS, 
+🛠️ **Frameworks and libraries**:  React.js, Next.js, Node.js, Express.js, tailwind, mangoes
 📚 **Databases**:  MongoDB 
 🗃️ **Version control**: Git, GitHub,
 ```
@@ -24,7 +24,7 @@ Hello, I'm Mohammad Enam, an aspiring web developer. I love creating beautiful w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin logo"  />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" width="52" alt="matlab logo"  /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
